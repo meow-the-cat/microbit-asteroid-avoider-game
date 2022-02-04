@@ -1,5 +1,5 @@
 
-> Open this page at [https://meow-the-cat.github.io/microbit-asteroid-avoider-game/](https://meow-the-cat.github.io/microbit-asteroid-avoider-game/)
+> I'm sorry, but the link that was here doesn't work for some reason, so I removed it.)
 
 ## Use as Extension
 
