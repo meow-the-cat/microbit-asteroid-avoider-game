@@ -20,10 +20,8 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/meow-the-cat/microbit-asteroid-avoider-game/raw/master/.github/makecode/blocks.png)
+!This link didn't work too... I don't know, maybe it's a GitHub error...
 
 #### Metadata (used for search, rendering)
 
